@@ -1,0 +1,21 @@
+{
+  "BBC": "http://feeds.bbci.co.uk/news/world/rss.xml",
+  "New York Times": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
+  "BuzzFeed": "https://www.buzzfeed.com/world.xml",
+  "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+  "E-International Relations": "https://www.e-ir.info/category/blogs/feed/",
+  "Global Issues": "http://www.globalissues.org/news/feed",
+  "The Cipher Brief": "https://www.thecipherbrief.com/feed",
+  "Yahoo": "https://www.yahoo.com/news/rss/world",
+  "CNN": "http://rss.cnn.com/rss/edition_world.rss",
+  "The Guardian": "https://www.theguardian.com/world/rss",
+  "Reuters": "http://feeds.reuters.com/Reuters/worldNews",
+  "Washington Post": "feeds.washingtonpost.com/rss/world",
+  "Times of India": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+  "RT": "https://www.rt.com/rss/news/",
+  "The Independent": "http://www.independent.co.uk/news/world/rss",
+  "Spiegel Online": "http://www.spiegel.de/international/index.rss",
+  "NPR": "https://www.npr.org/rss/rss.php?id=1004",
+  "CNBC": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+  "Daily Mirror": "www.mirror.co.uk/news/world-news/rss.xml"
+}

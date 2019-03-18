@@ -1,0 +1,9 @@
+{
+  "CNN Money": "http://rss.cnn.com/rss/money_topstories.rss",
+  "CNBC": "https://www.cnbc.com/id/19746125/device/rss/rss.xml",
+  "Fortune": "fortune.com/feed",
+  "Financial Times": "https://www.ft.com/?format=rss",
+  "investing.com": "https://www.investing.com/rss/news.rss",
+  "Seeking Alpha": "https://seekingalpha.com/market_currents.xml",
+  "Morning Star": "https://feeds.feedburner.com/morningstar/glkd"
+}

@@ -1,0 +1,10 @@
+{
+  "Science Alert": "https://feeds.feedburner.com/sciencealert-latestnews",
+  "New Scientist": "https://www.newscientist.com/feed/home?cmpid=RSS|NSNS-Home&utm_medium=RSS&utm_source=NSNS&utm_campaign=Home&utm_content=Home",
+  "Scientific American": "http://rss.sciam.com/ScientificAmerican-Global",
+  "Science News": "https://www.sciencenews.org/feeds/headlines.rss",
+  "Discover Magazine": "https://feeds.feedburner.com/AllDiscovermagazinecomContent",
+  "Popular Science": "www.popsci.com/rss.xml",
+  "space.com": "https://www.space.com/feeds/all",
+  "phys.org": "https://phys.org/rss-feed/"
+}

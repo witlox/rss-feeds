@@ -1,0 +1,13 @@
+{
+  "TechMeme": "https://www.techmeme.com/feed.xml",
+  "TechCrunch": "https://techcrunch.com/rss",
+  "MIT Technology Review": "https://www.technologyreview.com/topnews.rss",
+  "Ars Technica": "https://feeds.feedburner.com/arstechnica/technology-lab",
+  "ReadWrite": "https://readwrite.com/feed/?x=1",
+  "VentureBeat": "https://feeds.feedburner.com/venturebeat/SZYF",
+  "Recode": "https://www.recode.net/rss/index.xml",
+  "ComputerWorld": "https://www.computerworld.com/index.rss",
+  "MakeUseOf": "feeds.feedburner.com/Makeuseof",
+  "cnet": "https://www.cnet.com/rss/news/",
+  "The Verge": "https://www.theverge.com/rss/frontpage"
+}
