@@ -4,7 +4,8 @@
   "Scientific American": "http://rss.sciam.com/ScientificAmerican-Global",
   "Science News": "https://www.sciencenews.org/feeds/headlines.rss",
   "Discover Magazine": "https://feeds.feedburner.com/AllDiscovermagazinecomContent",
-  "Popular Science": "www.popsci.com/rss.xml",
+  "Popular Science": "https://www.popsci.com/rss.xml",
   "space.com": "https://www.space.com/feeds/all",
-  "phys.org": "https://phys.org/rss-feed/"
+  "phys.org": "https://phys.org/rss-feed/",
+  "aeon": "https://aeon.co/feed.rss"
 }

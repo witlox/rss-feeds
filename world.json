@@ -10,12 +10,12 @@
   "CNN": "http://rss.cnn.com/rss/edition_world.rss",
   "The Guardian": "https://www.theguardian.com/world/rss",
   "Reuters": "http://feeds.reuters.com/Reuters/worldNews",
-  "Washington Post": "feeds.washingtonpost.com/rss/world",
+  "Washington Post": "http://feeds.washingtonpost.com/rss/world",
   "Times of India": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
   "RT": "https://www.rt.com/rss/news/",
   "The Independent": "http://www.independent.co.uk/news/world/rss",
   "Spiegel Online": "http://www.spiegel.de/international/index.rss",
   "NPR": "https://www.npr.org/rss/rss.php?id=1004",
   "CNBC": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-  "Daily Mirror": "www.mirror.co.uk/news/world-news/rss.xml"
+  "Daily Mirror": "https://www.mirror.co.uk/news/world-news/rss.xml"
 }

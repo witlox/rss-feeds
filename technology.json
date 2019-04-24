@@ -7,7 +7,8 @@
   "VentureBeat": "https://feeds.feedburner.com/venturebeat/SZYF",
   "Recode": "https://www.recode.net/rss/index.xml",
   "ComputerWorld": "https://www.computerworld.com/index.rss",
-  "MakeUseOf": "feeds.feedburner.com/Makeuseof",
+  "MakeUseOf": "https://feeds.feedburner.com/Makeuseof",
   "cnet": "https://www.cnet.com/rss/news/",
-  "The Verge": "https://www.theverge.com/rss/frontpage"
+  "The Verge": "https://www.theverge.com/rss/frontpage",
+  "The Next Platform": "https://www.nextplatform.com/feed/"
 }
